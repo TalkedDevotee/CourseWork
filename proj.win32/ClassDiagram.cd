@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AppDelegate">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAACAAQAAAEAAAAAAAAAAAAk=</HashCode>
+      <FileName>C:\Users\TalkedDevotee\Documents\Visual Studio 2017\Projects\Bitcoin\Project\Bitcoin\Classes\AppDelegate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuBitcoinScene">
+    <Position X="3.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIIAAAAAAAAAAAAAAAAAAAAAAABAIAABAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\TalkedDevotee\Documents\Visual Studio 2017\Projects\Bitcoin\Project\Bitcoin\Classes\MenuBitcoinScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level_1">
+    <Position X="7.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>jAAIAACEIAAAAAAAAAEAgIAEEAAAAAKAQBABAABAgAg=</HashCode>
+      <FileName>C:\Users\TalkedDevotee\Documents\Visual Studio 2017\Projects\Bitcoin\Project\Bitcoin\Levels\Level_1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level_2">
+    <Position X="9.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAIAAIEIEAAAgAAAAEAgAAEEAAgAAIASBABABBAgAA=</HashCode>
+      <FileName>C:\Users\TalkedDevotee\Documents\Visual Studio 2017\Projects\Bitcoin\Project\Bitcoin\Levels\Level_2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level_3">
+    <Position X="11.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAIAAAEIAAAAAAAAAEAgIIEEgCAAgKEQBQBAABAhAA=</HashCode>
+      <FileName>C:\Users\TalkedDevotee\Documents\Visual Studio 2017\Projects\Bitcoin\Project\Bitcoin\Levels\Level_3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level_4">
+    <Position X="14" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAgJgAAEKAwAAgAgAAEAgIIEUACAAAKAQBABAQBAgAA=</HashCode>
+      <FileName>C:\Users\TalkedDevotee\Documents\Visual Studio 2017\Projects\Bitcoin\Project\Bitcoin\Levels\Level_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="functions">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAcAgAAACgIAAEAABwCAAAgAAA=</HashCode>
+      <FileName>C:\Users\TalkedDevotee\Documents\Visual Studio 2017\Projects\Bitcoin\Project\Bitcoin\BooleanAlgebra\Functions.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IntCoin">
+    <Position X="5.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\TalkedDevotee\Documents\Visual Studio 2017\Projects\Bitcoin\Project\Bitcoin\BooleanAlgebra\Functions.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
